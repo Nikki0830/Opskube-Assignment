@@ -1,12 +1,12 @@
-<h2>For frontend->
+<h4>For frontend->
 npm i
 ,npm start
-</h2>
+</h4>
 
-<h2>For backend->
+<h4>For backend->
 npm init -y
 ,npm run server
-</h2>
+</h4>
 
 
 ![Screenshot (741)](https://user-images.githubusercontent.com/69712671/162639790-1b7a5f4a-41c8-4c02-bfeb-b192a0116ead.png)
